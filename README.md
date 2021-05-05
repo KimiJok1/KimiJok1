@@ -1,7 +1,7 @@
 ## Hello, I'm Kimi.
 
 ### Projects that I've worked on:
-* funnymonkey.studio
+* [funnymonkey.studio](http://funnymonkey.studio/)
 * 
 ![KimiJok1's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimiJok1&show_icons=true&theme=material-palenight&hide_border=true)
 <br>
