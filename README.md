@@ -1,5 +1,5 @@
 ## Hello, I'm Kimi.
-# I'm a 18-year old junior software developer
+## I'm a 18-year old junior software developer
 
 ### My stuff
 * [Portfolio](https://KimiJok1.github.io)
