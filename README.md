@@ -1,8 +1,10 @@
 ## Hello, I'm Kimi.
+# I'm a 18-year old junior software developer
 
-### Projects that I've worked on:
-* [funnymonkey.studio](http://funnymonkey.studio/)
-* [Old school projects](https://KimiJok1.github.io)
+### My stuff
+* [Portfolio](https://KimiJok1.github.io)
+* [Portfolio (Hosted on Azure)](https://fireable.me)
+* [Personal GitHub account (more projects)](https://github.com/ItzFireable)
 
 ![KimiJok1's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimiJok1&show_icons=true&theme=material-palenight&hide_border=true)
 <br>
